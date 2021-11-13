@@ -1,1 +1,1 @@
-<link rel="stylesheet" href="main/spacehey.css">
+<link rel="stylesheet" href="spacehey.css">
